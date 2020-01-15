@@ -7,3 +7,13 @@ Today's Progress: I worked on functionality on the rock-paper-scissors applicati
 Thoughts: I found the exercise quite fun, and challenging but extremely rewarding once I figured out the logic. I learned JavaScript Fundamental syntax and constructs such as variables, functions, and operators. 
 
 Link to work: https://github.com/sipho-kwesi/rock-paper-scissors
+
+Day 1: 14th January 2020
+
+Today's Progress: I continued working on the functionality of the rock-paper-scissors application. I also read some articles about functions and started a command line short course. I read an article about the feynman technique.
+
+Thoughts: The rock-paper-scissors game has not been challenging as of yet, however I would like to review my code and make a more elegant solution. Functions are fascinating especially the ability to use callbacks. I still don't understand it fully but my friday reviews using the feynman technique should be produce satisfactory results.
+
+Link to work: https://github.com/sipho-kwesi/rock-paper-scissors
+Link to work: https://learnpythonthehardway.org/book/appendixa.html
+Link to work: https://fs.blog/2012/04/feynman-technique/
