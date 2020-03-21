@@ -17,3 +17,5 @@ Thoughts: The rock-paper-scissors game has not been challenging as of yet, howev
 Link to work: https://github.com/sipho-kwesi/rock-paper-scissors
 Link to work: https://learnpythonthehardway.org/book/appendixa.html
 Link to work: https://fs.blog/2012/04/feynman-technique/
+
+Day 2: 21st March 2020
